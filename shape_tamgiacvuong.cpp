@@ -98,7 +98,7 @@ void RightTriangle4(int n)
 //----------------------------------------------
 int main()
 {
-    int row = 10; // n dòng
+    int row = 10; // number of rows
     
     cout << "Right triangle with left leg and bottom leg" << endl;
     RightTriangle1(row);
